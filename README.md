@@ -5,8 +5,8 @@ This project aims to develop the “e-Complaint” system, providing citizens wi
 
 Journal Details:
 
-Scientific Research Publishing Limited
-Journal of Software Engineering and Applications
-Vol.16 No.6
-DOI: 10.4236/jsea.2023.166013
+Scientific Research Publishing Limited;
+Journal of Software Engineering and Applications;
+Vol.16 No.6;
+DOI: 10.4236/jsea.2023.166013;
 Read: https://www.scirp.org/journal/paperinformation?paperid=126118
